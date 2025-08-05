@@ -1,0 +1,72 @@
+body {
+  background: white;
+  background-image: linear-gradient(to right, #ebd5ff, #f687ff, #45ffff, azure);
+}
+p {
+  color: black;
+}
+h1 {
+  font-weight: bold;
+}
+.b{
+  margin-bottom: auto;
+  margin-top: auto;
+  margin-right: auto;
+  margin-left: auto;
+  display: block; 
+  font-size: 4vw;
+}
+.dog{
+  margin-bottom: auto;
+  margin-top: auto;
+  margin-right: auto;
+  margin-left: auto;
+  display: block;
+}
+.title{
+  text-align: center;
+  font-family: rubik gemstones;
+  font-size: 4vw;
+  color: #8900ff;
+}
+.desc{
+  padding: 10px;
+  font-family: tektur;
+  
+}
+body {
+  background: white;
+  background-image: linear-gradient(to right, #ebd5ff, #f687ff, #45ffff, azure);
+}
+p {
+  color: black;
+}
+h1 {
+  font-weight: bold;
+}
+.b{
+  margin-bottom: auto;
+  margin-top: auto;
+  margin-right: auto;
+  margin-left: auto;
+  display: block; 
+  font-size: 4vw;
+}
+.dog{
+  margin-bottom: auto;
+  margin-top: auto;
+  margin-right: auto;
+  margin-left: auto;
+  display: block;
+}
+.title{
+  text-align: center;
+  font-family: rubik gemstones;
+  font-size: 4vw;
+  color: #8900ff;
+}
+.desc{
+  padding: 10px;
+  font-family: tektur;
+  
+}

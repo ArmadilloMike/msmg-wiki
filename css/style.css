@@ -1,0 +1,70 @@
+body {
+  background: white;
+  background-image: linear-gradient(to right, #d19fff, #00f5ff);
+}
+.names{
+  padding: 10px;
+  font-family: bruno ace sc;
+  color: purple;
+}
+.ti {
+  color: #ff26c5;
+  margin-bottom: auto;
+  margin-top: auto;
+  margin-right: auto;
+  margin-left: auto;
+  display: block;
+  text-align: center;
+  font-size: 5vw;
+  font-family: exo;
+}
+.moon{
+  font-size: 30vw;
+  text-align: center;
+  border: 10px outset cyan;
+}
+.next{
+  background-image: url("Screenshot-2025-07-29-at-12.12.50.png");
+  border: 10px groove pink;
+}
+button:active{
+  transform: translateY(4px) translateX(5px);
+  border: 5px dotted cyan;
+}
+.slay{
+  font-family: tektur;
+  background-image: linear-gradient(to top, #c678ff, #00ffeb, #eaceff);
+  font-size: 5vw;
+}
+.miraheze{
+  margin-bottom: auto;
+  margin-top: auto;
+  margin-right: auto;
+  margin-left: auto;
+  display: block;
+}
+h1 {
+  font-weight: bold;
+}
+.credentials{
+  font-family: exo;
+  text-align: center;
+  padding: 10px;
+  background-image: linear-gradient(to right, #c678ff, #00ffeb, #eaceff);
+}
+.owu{
+  transform: rotate(90deg);
+  margin-bottom: auto;
+  margin-top: auto;
+  margin-right: auto;
+  margin-left: auto;
+  align-content: center;
+  display: block;
+  border: 15px groove azure;
+}
+.o{
+  font-family: metal mania;
+  font-size: 4vw;
+  text-align: center;
+  color: #3b00ff
+}

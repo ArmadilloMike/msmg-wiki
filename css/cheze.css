@@ -1,0 +1,142 @@
+body{
+    background: orange;
+  }
+p{
+  color: black;
+}
+h1 {
+  font-weight: bold;}
+
+.play{
+  padding: 30px;
+  margin-bottom: auto;
+  margin-top: auto;
+  margin-right: auto;
+  margin-left: auto;
+  display: block;
+
+}
+.grid{
+  display: grid;
+  grid-row: 1 / span 1;
+  grid-column: 1 / span 1;
+}
+.burgur{
+  margin-bottom: auto;
+  margin-top: auto;
+  margin-right: auto;
+  margin-left: auto;
+  display: block; 
+  border: 1pc groove #ff8001;
+}
+.button{
+  font-size: 4vw;
+  font-family: bruno ace sc;
+  border: 5px groove green;
+  padding: 10px;
+  text-align: center;
+}
+.b{
+  text-align: center;
+}
+.myImage {
+  background-image: url("Image-15.jpeg");
+  margin-bottom: auto;
+  margin-top: auto;
+  margin-right: auto;
+  margin-left: auto;
+  display: block;
+  align-self: auto;
+  width: 300px;
+}
+.n{
+  font-family: orbitron;
+  color: azure;
+  text-shadow: 1px 1px 3px gray;
+  text-align: center; 
+}
+.c{
+  font-family: orbitron;
+  color: maroon;
+  text-shadow: 1px 1px 3px antiquewhite;
+  text-align: center;
+}
+.title{
+  font-family: chewy;
+  font-weight: 200;
+  font-size: 5vw;
+  text-align: center;
+  color: #f5ff00;
+  text-shadow: 3px 3px 1px gray;
+}
+body{
+    background: orange;
+  }
+p{
+  color: black;
+}
+h1 {
+  font-weight: bold;}
+
+.play{
+  padding: 30px;
+  margin-bottom: auto;
+  margin-top: auto;
+  margin-right: auto;
+  margin-left: auto;
+  display: block;
+
+}
+.grid{
+  display: grid;
+  grid-row: 1 / span 1;
+  grid-column: 1 / span 1;
+}
+.burgur{
+  margin-bottom: auto;
+  margin-top: auto;
+  margin-right: auto;
+  margin-left: auto;
+  display: block; 
+  border: 1pc groove #ff8001;
+}
+.button{
+  font-size: 4vw;
+  font-family: bruno ace sc;
+  border: 5px groove green;
+  padding: 10px;
+  text-align: center;
+}
+.b{
+  text-align: center;
+}
+.myImage {
+  background-image: url("Image-15.jpeg");
+  margin-bottom: auto;
+  margin-top: auto;
+  margin-right: auto;
+  margin-left: auto;
+  display: block;
+  align-self: auto;
+  width: 300px;
+}
+.n{
+  font-family: orbitron;
+  color: azure;
+  text-shadow: 1px 1px 3px gray;
+  text-align: center; 
+}
+.c{
+  font-family: orbitron;
+  color: maroon;
+  text-shadow: 1px 1px 3px antiquewhite;
+  text-align: center;
+}
+.title{
+  font-family: chewy;
+  font-weight: 200;
+  font-size: 5vw;
+  text-align: center;
+  color: #f5ff00;
+  text-shadow: 3px 3px 1px gray;
+}
