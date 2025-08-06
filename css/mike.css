@@ -1,0 +1,63 @@
+body {
+    background: #0A0C10;
+}
+p {
+    color: black;
+}
+h1 {
+    font-weight: bold;
+}
+.b{
+    color: greenyellow;
+    font-family: exo;
+    font-size: 3vw;
+    text-align: center;
+}
+.button{
+    text-align: center;
+    font-size: 3vw;
+    font-family: bruno ace sc;
+}
+.s:hover{
+    border: 5px solid black;
+    color: white;
+    font-size: 3vw;
+    transition: transform 0.5s ease-in-out;
+    transform: translateY(5px)
+}
+.n:hover{
+    border: 5px solid black;
+    color: white;
+    font-size: 3vw;
+    transition: transform 0.5s ease-in-out;
+    transform: translateY(-5px);
+}
+.s{
+    border: 5px solid #007e00;
+    color: white;
+    font-size: 3vw;
+}
+.n{
+    font-size: 3vw;
+    border: 5px solid red;
+    color: white;
+}
+.mike{
+    font-size: 5vw;
+    text-align: center;
+    font-family: tektur;
+    font-weight: 100;
+    text-shadow: 3px 3px 3px #bababa;
+    color: azure;
+}
+.m{
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+    border: 10pc groove #f4a946;
+}
+.desc{
+    padding: 190px;
+}
